@@ -73,10 +73,10 @@
 ### 🌐 Let's Connect
 
 <p align="left">
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/yourusername">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
