@@ -73,11 +73,11 @@
 ### 🌐 Let's Connect
 
 <p align="left">
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
   </a>
 </p>
 
