@@ -64,9 +64,7 @@
 
 ### 👾 Pac-Man Eating My Commits
 
-<p align="center">
-  <img src="https://github.com/2025qasim/2025qasim/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
+<p align="center"> <img src="https://github.com/2025qasim/2025qasim/blob/output/github-contribution-grid-snake.svg" alt="snake animation" /> </p>
 
 ---
 
