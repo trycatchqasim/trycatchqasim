@@ -64,8 +64,6 @@
 
 ### 👾 Pac-Man Eating My Commits
 
-## My Contribution Graph
-
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trycatchqasim/trycatchqasim/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trycatchqasim/trycatchqasim/output/pacman-contribution-graph.svg">
@@ -73,18 +71,3 @@
 </picture>
 
 ---
-
-### 🌐 Let's Connect
-
-<p align="left">
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
-  </a>
-</p>
-
----
-
-> 🧩 “Code like Pac-Man: Keep eating bugs till you win the game.”
