@@ -1,6 +1,6 @@
 <!-- GitHub Profile README.md -->
 
-<h1 align="center">Hi 👋, I'm Qasim</h1>
+<h1 align="center">Hi !!, I'm Qasim 👨🏻‍💻</h1>
 <h3 align="center">A passionate Computer Science Engineering student & full-stack dev-in-the-making</h3>
 
 ---
