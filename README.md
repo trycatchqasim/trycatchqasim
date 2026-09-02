@@ -7,8 +7,6 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently working on: **ExpenseTracker™**
-- 🌱 Currently learning: **Advanced React Patterns, Low-Level C++ & Algorithms**
 - 💬 Ask me about: `React`, `C++`, `Backend`, `SQL`, `AI Projects`
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/qasimshakil1412004)** | **qasim1412004@gmail.com**
 
